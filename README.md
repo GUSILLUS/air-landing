@@ -8,6 +8,8 @@ HTML-лендинг Air - це веб-сторінка, яка призначе�
 
  - CSS: мова стилів, використовувалася для оформлення веб-сторінки, встановлення кольорів, розмірів та інших властивостей візуального дизайну.
  
+ - SCSS: дозволяв використовувати змінні, міксини, вкладені стилі, оператори та інші функції, які спрощують процес написання CSS-коду.
+ 
  - Слайдер [SWIPER](https://swiperjs.com/): для розробки гарного та багато функціонального слайдеру на сторінці.
 
  - JavaScript: мова програмування, використовувалася для додавання взаємодії та анімації меню, перевірки форм,  та налаштування властивостей SWIPER.
@@ -25,6 +27,8 @@ The main technologies used during the landing development are:
 HTML: the main markup language used to create the page structure and its elements.
 
 CSS: the style language used to style the web page, set colors, sizes, and other visual design properties.
+
+SCSS allowed the use of variables, mixins, nested styles, operators, and other functions that simplify the process of writing CSS code.
 
 [SWIPER](https://swiperjs.com/) slider: used to develop a nice and feature-rich slider on the page.
 
