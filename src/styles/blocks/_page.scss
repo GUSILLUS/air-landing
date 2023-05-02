@@ -43,15 +43,11 @@
   }
 
   &__section {
-    margin-bottom: 120px;
 
     &:last-of-type {
       margin-bottom: 0;
     }
 
-    @include onIPAD {
-      margin-bottom: 148px;
-    }
 
     &-title-1 {
       font-family: "Poppins", sans-serif;

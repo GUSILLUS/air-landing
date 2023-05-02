@@ -1,4 +1,10 @@
 .process {
+  padding-top: 120px;
+
+  @include onDesktop {
+    padding-top: 251px;
+  }
+
   &__title {
     line-height: 130%;
     display: flex;

@@ -1,4 +1,11 @@
 .testimonials {
+  padding-top: 120px;
+  margin-bottom: 120px;
+
+  @include onIPAD {
+    padding-top: 148px;
+    margin-bottom: 148px;
+  }
   
   &__title {
     margin-bottom: 48px;
