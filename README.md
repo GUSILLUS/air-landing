@@ -26,7 +26,7 @@ HTML: the main markup language used to create the page structure and its element
 
 CSS: the style language used to style the web page, set colors, sizes, and other visual design properties.
 
-Swiper slider: used to develop a nice and feature-rich slider on the page.
+[SWIPER](https://swiperjs.com/) slider: used to develop a nice and feature-rich slider on the page.
 
 JavaScript: the programming language to add interaction and animation to the menu, form validation, and configure Swiper properties.
 
